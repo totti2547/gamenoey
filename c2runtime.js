@@ -21734,4 +21734,3 @@ cr.getObjectRefTable = function () { return [
 	cr.behaviors.Flash.prototype.acts.Flash,
 	cr.system_object.prototype.acts.SubVar
 ];};
-
